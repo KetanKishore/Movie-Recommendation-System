@@ -18,5 +18,18 @@ In this project I've developed a program to recommend movies for a user.
 1. After having user submited his rating list, dispay the recommendation movie list for him.
 ![Recommended movie list for user](/img/RecommendatedList.png)
 
+
+
+
+
+
+## [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/1.5.%20Java%20Programming:%20Build%20a%20Recommendation%20System.pdf)
+
+
+# [Specialization Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/1.6.%20Duke%20Specialization.pdf)
+
+
+
+
 ## *Get your recommendation movie list [here](http://www.dukelearntoprogram.com/capstone/recommender.php?id=2mJbkxZPC50RBV)*
 
