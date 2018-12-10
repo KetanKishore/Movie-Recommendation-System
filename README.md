@@ -18,5 +18,5 @@ In this project I've developed a program to recommend movies for a user.
 1. After having user submited his rating list, dispay the recommendation movie list for him.
 ![Recommended movie list for user](/img/RecommendatedList.png)
 
-## *You can get your recommendation movie list [here](http://www.dukelearntoprogram.com/capstone/recommender.php?id=2mJbkxZPC50RBV)*
+## *Get your recommendation movie list [here](http://www.dukelearntoprogram.com/capstone/recommender.php?id=2mJbkxZPC50RBV)*
 
