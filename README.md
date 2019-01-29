@@ -1,4 +1,4 @@
-# Building-a-Movie-Recommendation-System
+# Movie Recommendation System
 
 ## Capston Project for Coursera Duke university course on Java programming.
 
