@@ -26,7 +26,7 @@ In this project I've developed a program to recommend movies for a user.
 ## [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/1.5.%20Java%20Programming:%20Build%20a%20Recommendation%20System.pdf)
 
 
-# [Specialization Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/1.6.%20Duke%20Specialization.pdf)
+# [Specialization Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/2.6.%20Specialization%20Object%20Oriented%20Java%20Programming:%20Data%20Structures%20and%20Beyond.pdf)
 
 
 
