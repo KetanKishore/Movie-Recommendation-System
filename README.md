@@ -9,8 +9,8 @@ In this project I've developed a program to recommend movies for a user.
 1. Read in and parse move and rating data into lists and maps;
 1. Calculate average ratings;
 1. Calculate how similar a given rater is to another user based on ratings; 
-1. Recommend movies to a given user based on ratings. 
-1. Display recommended movies for a given user on a webpage.
+1. Recommend movies to a given user based on ratings; 
+1. Display recommended movies for a given user on a webpage;
 
 # Result
 1. First user will be prompt to rate certain number of movies, these rating will be used to make recommendation for the user
